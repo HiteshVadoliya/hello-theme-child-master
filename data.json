@@ -1,0 +1,22 @@
+[
+  {
+    "name" : "Los Angeles CA  California",
+    "zipcode" : "90006"
+  },
+  {
+    "name" : "Santa Monica  CA  California",
+    "zipcode" : "90005"
+  },
+  {
+    "name" : "Torrance  CA  California",
+    "zipcode" : "90005"
+  },
+  {
+    "name" : "Lomita  CA  California",
+    "zipcode" : "90717"
+  },
+  {
+    "name" : "Long Beach  CA  California",
+    "zipcode" : "90808"
+  }
+]
